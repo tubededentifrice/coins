@@ -1,0 +1,40 @@
+{
+    "name": "My Tokens",
+    "logoURI": "https://raw.githubusercontent.com/tubededentifrice/coins/master/avalanche/logos/avalanche.png",
+    "keywords": [
+        "avalanche"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 43113,
+            "address": "0x5eb9f3d24fe25c582fcec2a32aeb774ea8d47ae8",
+            "decimals": 18,
+            "name": "Baguette",
+            "symbol": "BAG",
+            "logoURI": "https://raw.githubusercontent.com/baguette-exchange/contracts/master/tokenlist/logos/baguette.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
+            "decimals": 18,
+            "name": "Wrapped AVAX",
+            "symbol": "WAVAX",
+            "logoURI": "https://github.com/ava-labs/bridge-tokens/raw/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+        },
+        {
+            "chainId": 43113,
+            "address": "0xb881696Ba769cFcB9C7B8B27A3e73993f50583D0",
+            "decimals": 18,
+            "name": "ShitCoin",
+            "symbol": "SHIT",
+            "logoURI": "https://raw.githubusercontent.com/tubededentifrice/coins/master/avalanche/logos/shitcoin.png"
+
+        }
+    ],
+    "timestamp": "2021-05-22T12:00:00+00:00"
+}
